@@ -1,9 +1,13 @@
 ### Hi there 👋 I'm Matías
 
+I'm passionate about the world of programming, understanding and solving its problems. I like to constantly learn and apply new technologies.
+I'm currently studying full stack web development at Henry Bootcamp, after a year of self study learning JavaScript.
+<br />
+<br />
 Soy un apasionado por el mundo de la programación, entender y solucionar sus problemáticas. Me gusta aprender y aplicar constantemente nuevas tecnologías.
 Actualmente estudio desarrollo web full stack en Henry Bootcamp, después de un año de estudio autodidacta aprendiendo JavaScript.
 
-Lenguajes y herramientas:
+Skills:
 <br />
 <br />
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&logoWidth=20">
