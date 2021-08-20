@@ -4,7 +4,14 @@ Soy un apasionado por el mundo de la programación, entender y solucionar sus pr
 Actualmente estudio desarrollo web full stack en Henry Bootcamp, después de un año de estudio autodidacta aprendiendo JavaScript.
 
 Lenguajes y herramientas:
-
+<br />
+<br />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&logoWidth=20">
+<img src="https://img.shields.io/badge/-css3-1572B6?logo=css3&style=for-the-badge&logoWidth=20">
+<img src="https://img.shields.io/badge/-ReactJS-black?logo=react&style=for-the-badge&logoWidth=20">
+<img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&style=for-the-badge&logoWidth=20">
+<img src="https://img.shields.io/badge/-Styled%20components-DB7093?logo=styledcomponents&logoColor=white&style=for-the-badge&logoWidth=20">
+<img src="https://img.shields.io/badge/-ExpressJS-white?logo=express&logoColor=black&style=for-the-badge&logoWidth=20">
 
 
 
