@@ -14,13 +14,13 @@ Skills:
 <img src="https://img.shields.io/badge/-css3-1572B6?logo=css3&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-ReactJS-black?logo=react&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&style=for-the-badge&logoWidth=20">
-<img src="https://img.shields.io/badge/-Styled%20components-DB7093?logo=styledcomponents&logoColor=white&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-ExpressJS-white?logo=express&logoColor=black&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-NodeJS-339933?logo=nodedotjs&logoColor=white&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-material%20ui-0081CB?logo=materialui&logoColor=white&style=for-the-badge&logoWidth=20">
+<img src="https://img.shields.io/badge/-Styled%20components-DB7093?logo=styledcomponents&logoColor=white&style=for-the-badge&logoWidth=20">
 
 
 
