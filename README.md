@@ -5,7 +5,7 @@ I'm currently studying full stack web development at Henry Bootcamp, after a yea
 <br />
 <br />
 Soy un apasionado por el mundo de la programación, entender y solucionar sus problemáticas. Me gusta aprender y aplicar constantemente nuevas tecnologías.
-Actualmente estudio desarrollo web full stack en Henry Bootcamp, después de un año de estudio autodidacta aprendiendo JavaScript.
+Comencé a estudiar programación con C# de manera autodidacta, luego me interese por el mundo JavaScript, y actualmente estoy cursando desarrollo web full stack en Henry Bootcamp.
 
 Skills:
 <br />
