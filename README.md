@@ -12,10 +12,10 @@ Skills:
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-css3-1572B6?logo=css3&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoWidth=20">
-<img src="https://img.shields.io/badge/-ReactJS-black?logo=react&style=for-the-badge&logoWidth=20">
+<img src="https://img.shields.io/badge/-React-black?logo=react&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&style=for-the-badge&logoWidth=20">
-<img src="https://img.shields.io/badge/-ExpressJS-white?logo=express&logoColor=black&style=for-the-badge&logoWidth=20">
-<img src="https://img.shields.io/badge/-NodeJS-339933?logo=nodedotjs&logoColor=white&style=for-the-badge&logoWidth=20">
+<img src="https://img.shields.io/badge/-Express-white?logo=express&logoColor=black&style=for-the-badge&logoWidth=20">
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-Mongo%20DB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge&logoWidth=20">
