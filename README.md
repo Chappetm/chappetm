@@ -6,6 +6,7 @@ I'm passionate about the world of programming, understanding and solving its pro
 Soy un apasionado por el mundo de la programación, entender y solucionar sus problemáticas. Me gusta aprender y aplicar constantemente nuevas tecnologías.
 Comencé a estudiar programación con C# de manera autodidacta, luego me interese por el mundo JavaScript.
 
+
 Skills:
 <br />
 <br />
