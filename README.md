@@ -13,7 +13,7 @@ Skills:
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-css3-1572B6?logo=css3&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoWidth=20">
-<img src="https://img.shields.io/badge/-typescript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoWidth=20">
+<img src="https://img.shields.io/badge/-typescript-F7DF1E?logo=typescript&logoColor=black&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-React-black?logo=react&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-Express-white?logo=express&logoColor=black&style=for-the-badge&logoWidth=20">
