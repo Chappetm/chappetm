@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Matías
 
-I'm passionate about the world of programming, understanding and solving its problems. I like to constantly learn and apply new technologies. I started to study programming with C # in a self-taught way, then I became interested in the JavaScript world
+I'm passionate about the world of programming, understanding and solving its problems. I like to constantly learn and apply new technologies. I started to study programming with C # in a self-taught way, then I became interested in the JavaScript world.
 <br />
 <br />
 Soy un apasionado por el mundo de la programación, entender y solucionar sus problemáticas. Me gusta aprender y aplicar constantemente nuevas tecnologías.
-Comencé a estudiar programación con C# de manera autodidacta, luego me interese por el mundo JavaScript
+Comencé a estudiar programación con C# de manera autodidacta, luego me interese por el mundo JavaScript.
 
 
 Skills:
