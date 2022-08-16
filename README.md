@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Matías
 
-I'm passionate about the world of programming, understanding and solving its problems. I like to constantly learn and apply new technologies.
+I'm passionate about of programming, understanding and solving its problems. I like to constantly learn and apply new technologies.
 <br />
 <br />
-Soy un apasionado por el mundo de la programación, entender y solucionar sus problemáticas. Me gusta aprender y aplicar constantemente nuevas tecnologías.
+Soy un apasionado por la programación, entender y solucionar sus problemáticas. Me gusta aprender y aplicar constantemente nuevas tecnologías.
 
 
 Skills:
