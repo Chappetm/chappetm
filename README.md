@@ -3,7 +3,6 @@
 I'm a Frontend developer passionate about creating unique and optimized user experiences. My approach is focused on the development of web applications with a responsive design and a high level of accessibility. I have worked with technologies like React, Next.js, TypeScript to build engaging and interactive user interfaces.
 <br />
 <br />
-Soy un desarrollador Frontend apasionado por crear experiencias de usuario únicas y optimizadas. Mi enfoque se centra en el desarrollo de aplicaciones web con un diseño responsive y un alto nivel de accesibilidad. He trabajado con tecnologías como React, Next.js, TypeScript para construir interfaces de usuario interactivas y atractivas.
 
 
 Skills:
