@@ -22,7 +22,8 @@ Skills:
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-Mongo%20DB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge&logoWidth=20">
-<img src="https://img.shields.io/badge/-material%20ui-0081CB?logo=materialui&logoColor=white&style=for-the-badge&logoWidth=20">
+<img src="https://img.shields.io/badge/-material%20ui-0081CB?logo=mui&logoColor=white&style=for-the-badge&logoWidth=20">
+<img src="https://img.shields.io/badge/-Tailwind%20css-white?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-Styled%20components-DB7093?logo=styledcomponents&logoColor=white&style=for-the-badge&logoWidth=20">
 
 
