@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Matías
 
-I'm passionate about programming, understanding, and solving its problems. I like to learn and apply new technologies constantly.
+I'm a Frontend Developer passionate about programming, understanding, and solving its problems. I like to learn and apply new technologies constantly.
 <br />
 <br />
 Soy un apasionado por la programación, entender y solucionar sus problemáticas. Me gusta aprender y aplicar constantemente nuevas tecnologías.
@@ -14,6 +14,8 @@ Skills:
 <img src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-typescript-007ACC?logo=typescript&logoColor=white&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-React-black?logo=react&style=for-the-badge&logoWidth=20">
+<img src="https://img.shields.io/badge/-React_Native-white?logo=react&style=for-the-badge&logoWidth=20">
+<img src="https://img.shields.io/badge/-expo_cli-black?logo=expo&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-Express-white?logo=express&logoColor=black&style=for-the-badge&logoWidth=20">
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge&logoWidth=20">
